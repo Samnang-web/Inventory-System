@@ -1,0 +1,614 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Inventory Management\\InvenApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\helpers\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\helpers\\cloudinaryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\helpers\\tokenservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\stockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\stockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\models\\stock.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\models\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\dtos\\stockdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\dtos\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\controllers\\stockcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\istockrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\helpers\\ifileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\helpers\\ifileuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\istockservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\repository\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|d:\\inventory management\\invenapi\\invenapi\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EA7C02F-B87D-4982-889B-35F7F1726C88}|InvenApi\\InvenApi.csproj|solutionrelative:invenapi\\service\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\BlogApp\\BlogApi\\BlogApi\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CloudinaryService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\CloudinaryService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Helpers\\CloudinaryService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\CloudinaryService.cs",
+              "RelativeToolTip": "InvenApi\\Helpers\\CloudinaryService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAkAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T08:33:52.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Dockerfile",
+              "RelativeDocumentMoniker": "InvenApi\\Dockerfile",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Dockerfile",
+              "RelativeToolTip": "InvenApi\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-07T08:33:32.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "InvenApi\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:50:49.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\ProductService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\ProductService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\ProductService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\ProductService.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAAAD4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:37:43.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Program.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Program.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Program.cs",
+              "RelativeToolTip": "InvenApi\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABoAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:58:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\appsettings.json",
+              "RelativeDocumentMoniker": "InvenApi\\appsettings.json",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\appsettings.json",
+              "RelativeToolTip": "InvenApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-07T04:53:20.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\IUserRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IUserRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:46:20.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\CategoryRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\CategoryRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:29:35.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "InvenApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:51:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "InvenApi\\DTOs\\UserDto.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "InvenApi\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAABBwB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:32:23.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TokenService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\TokenService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Helpers\\TokenService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\TokenService.cs",
+              "RelativeToolTip": "InvenApi\\Helpers\\TokenService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:54:26.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\ProductRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\ProductRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:16:53.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StockRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\StockRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\StockRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\StockRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\StockRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAhwCMAAADAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:38:34.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\UserRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\UserRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\UserRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\UserRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAABBwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T00:48:16.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\UserService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\UserService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\UserService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAhwBQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:25:16.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IUserService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\IUserService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IUserService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T01:23:49.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StockService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\StockService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\StockService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\StockService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\StockService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAABBwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:58:52.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Models\\Users.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Users.cs",
+              "RelativeToolTip": "InvenApi\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:13:19.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stock.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Stock.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Models\\Stock.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Stock.cs",
+              "RelativeToolTip": "InvenApi\\Models\\Stock.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:26:06.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Products.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Models\\Products.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Products.cs",
+              "RelativeToolTip": "InvenApi\\Models\\Products.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:13:30.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "InvenApi\\DTOs\\ProductDto.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "InvenApi\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:38:05.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Models\\Category.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Models\\Category.cs",
+              "RelativeToolTip": "InvenApi\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:23:09.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CategoryDto.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\CategoryDto.cs",
+              "RelativeDocumentMoniker": "InvenApi\\DTOs\\CategoryDto.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\CategoryDto.cs",
+              "RelativeToolTip": "InvenApi\\DTOs\\CategoryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:46:19.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StockController.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\StockController.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Controllers\\StockController.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\StockController.cs",
+              "RelativeToolTip": "InvenApi\\Controllers\\StockController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAABBwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T10:35:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StockDto.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\StockDto.cs",
+              "RelativeDocumentMoniker": "InvenApi\\DTOs\\StockDto.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\DTOs\\StockDto.cs",
+              "RelativeToolTip": "InvenApi\\DTOs\\StockDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T10:47:12.704Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Controllers\\CategoryController.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "InvenApi\\Controllers\\CategoryController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:14:04.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IStockRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IStockRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\IStockRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IStockRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\IStockRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:26:30.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\IProductRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:14:22.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IFileUploadService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\IFileUploadService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Helpers\\IFileUploadService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Helpers\\IFileUploadService.cs",
+              "RelativeToolTip": "InvenApi\\Helpers\\IFileUploadService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:55:14.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\CategoryService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\CategoryService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\CategoryService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\CategoryService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAABBwCoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:45:18.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IStockService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IStockService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\IStockService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IStockService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\IStockService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T09:56:15.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\ICategoryService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\ICategoryService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:37:29.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Repository\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Repository\\ICategoryRepository.cs",
+              "RelativeToolTip": "InvenApi\\Repository\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T08:27:34.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IProductService.cs",
+              "RelativeDocumentMoniker": "InvenApi\\Service\\IProductService.cs",
+              "ToolTip": "D:\\Inventory Management\\InvenApi\\InvenApi\\Service\\IProductService.cs",
+              "RelativeToolTip": "InvenApi\\Service\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T06:34:29.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\BlogApp\\BlogApi\\BlogApi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "..\\..\\BlogApp\\BlogApi\\BlogApi\\Services\\UserService.cs",
+              "ToolTip": "D:\\BlogApp\\BlogApi\\BlogApi\\Services\\UserService.cs",
+              "RelativeToolTip": "..\\..\\BlogApp\\BlogApi\\BlogApi\\Services\\UserService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAABBwB8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T04:44:19.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\0fd629d6-f707-433f-be9b-d25a760d6149.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\0fd629d6-f707-433f-be9b-d25a760d6149.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\52406466-1787-41e1-95ff-03d6593330ce.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\52406466-1787-41e1-95ff-03d6593330ce.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\56a751f0-e92a-493d-8438-0ab4595a8600.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\56a751f0-e92a-493d-8438-0ab4595a8600.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\9836c404-e295-4632-9202-dd94775785e4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\9836c404-e295-4632-9202-dd94775785e4.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\a6ffa2b0-d586-451b-b654-c0c646767172.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\a6ffa2b0-d586-451b-b654-c0c646767172.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\afd4b623-5cfc-46fb-ab22-869249ac3934.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\afd4b623-5cfc-46fb-ab22-869249ac3934.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg"
+    },
+    {
+      "Id": "D:\\Inventory Management\\InvenApi\\invenApi\\wwwroot\\images\\products\\eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InvenApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.InvenApi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.InvenApi.props",
+      "PackagePath": "build\\InvenApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.InvenApi.props",
+      "PackagePath": "buildMultiTargeting\\InvenApi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.InvenApi.props",
+      "PackagePath": "buildTransitive\\InvenApi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

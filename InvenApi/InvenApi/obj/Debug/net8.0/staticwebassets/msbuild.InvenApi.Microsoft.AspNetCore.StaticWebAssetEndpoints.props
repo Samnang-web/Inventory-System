@@ -1,0 +1,136 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/0fd629d6-f707-433f-be9b-d25a760d6149.hved41sg6p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\0fd629d6-f707-433f-be9b-d25a760d6149.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hved41sg6p"},{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="},{"Name":"label","Value":"_content/InvenApi/images/products/0fd629d6-f707-433f-be9b-d25a760d6149.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:40:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/0fd629d6-f707-433f-be9b-d25a760d6149.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\0fd629d6-f707-433f-be9b-d25a760d6149.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:40:13 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.6jpnbcze96.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"6jpnbcze96"},{"Name":"integrity","Value":"sha256-AixCO8zknPNpOigWkuN/gdAlxbj/E0YE5Ig\u002BMEBSveo="},{"Name":"label","Value":"_content/InvenApi/images/products/1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"81050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AixCO8zknPNpOigWkuN/gdAlxbj/E0YE5Ig\u002BMEBSveo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 05 Jul 2025 07:16:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\1e66bb7a-635a-4bc2-a2ce-aab8ccd0abab.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AixCO8zknPNpOigWkuN/gdAlxbj/E0YE5Ig\u002BMEBSveo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"81050"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022AixCO8zknPNpOigWkuN/gdAlxbj/E0YE5Ig\u002BMEBSveo=\u0022"},{"Name":"Last-Modified","Value":"Sat, 05 Jul 2025 07:16:40 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/52406466-1787-41e1-95ff-03d6593330ce.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\52406466-1787-41e1-95ff-03d6593330ce.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/52406466-1787-41e1-95ff-03d6593330ce.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:09:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/52406466-1787-41e1-95ff-03d6593330ce.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\52406466-1787-41e1-95ff-03d6593330ce.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:09:53 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/56a751f0-e92a-493d-8438-0ab4595a8600.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\56a751f0-e92a-493d-8438-0ab4595a8600.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/56a751f0-e92a-493d-8438-0ab4595a8600.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:14:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/56a751f0-e92a-493d-8438-0ab4595a8600.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\56a751f0-e92a-493d-8438-0ab4595a8600.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:14:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/7fefc2b5-eda1-445e-973b-00b09bd95c60.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\7fefc2b5-eda1-445e-973b-00b09bd95c60.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/8e97be7b-4256-417f-a1d3-d622f602b9b6.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:34:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\8e97be7b-4256-417f-a1d3-d622f602b9b6.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:34:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/9836c404-e295-4632-9202-dd94775785e4.hved41sg6p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\9836c404-e295-4632-9202-dd94775785e4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hved41sg6p"},{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="},{"Name":"label","Value":"_content/InvenApi/images/products/9836c404-e295-4632-9202-dd94775785e4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Jul 2025 11:11:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/9836c404-e295-4632-9202-dd94775785e4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\9836c404-e295-4632-9202-dd94775785e4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Thu, 03 Jul 2025 11:11:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/a6ffa2b0-d586-451b-b654-c0c646767172.hved41sg6p.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a6ffa2b0-d586-451b-b654-c0c646767172.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hved41sg6p"},{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="},{"Name":"label","Value":"_content/InvenApi/images/products/a6ffa2b0-d586-451b-b654-c0c646767172.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:47:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/a6ffa2b0-d586-451b-b654-c0c646767172.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\a6ffa2b0-d586-451b-b654-c0c646767172.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"114048"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022c4vxR5kvBnaxPdGDu0LHU4Y\u002BHjKlCrAftTcIgzLPcYQ=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:47:14 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/afd4b623-5cfc-46fb-ab22-869249ac3934.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\afd4b623-5cfc-46fb-ab22-869249ac3934.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/afd4b623-5cfc-46fb-ab22-869249ac3934.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:46:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/afd4b623-5cfc-46fb-ab22-869249ac3934.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\afd4b623-5cfc-46fb-ab22-869249ac3934.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:46:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/b7b15326-1b54-42b4-94cf-ffdf56a0adfa.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:23:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\b7b15326-1b54-42b4-94cf-ffdf56a0adfa.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:23:51 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/eeb0d06c-da16-4d38-8892-b5ab6a548fc4.0uu5996ctn.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0uu5996ctn"},{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="},{"Name":"label","Value":"_content/InvenApi/images/products/eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/InvenApi/images/products/eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\eeb0d06c-da16-4d38-8892-b5ab6a548fc4.jpg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"29911"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022qAf3PsRBVXyUKFjyxUxMg1RGauWFGOqw2cxltkVoUQ8=\u0022"},{"Name":"Last-Modified","Value":"Fri, 04 Jul 2025 09:15:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>
