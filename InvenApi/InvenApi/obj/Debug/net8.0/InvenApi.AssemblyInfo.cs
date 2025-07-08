@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvenApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a942e85cb37a1c135102cf005043f773b911d99d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+119e1d9f727be5d9677db6f75eecee7072bae162")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvenApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvenApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
