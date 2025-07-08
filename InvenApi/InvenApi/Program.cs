@@ -88,7 +88,7 @@ builder.Services.AddCors(options =>
     options.AddPolicy("AllowFrontend",
         policy =>
         {
-            policy.WithOrigins("https://inventory-system-ecru-three.vercel.app")
+            policy.WithOrigins("https://inventory-system-ashen.vercel.app")
                   .AllowAnyHeader()
                   .AllowAnyMethod();
         });
